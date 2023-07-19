@@ -27,11 +27,9 @@ git clone https://github.com/VDai1999/ObjDetectionAndTracking.git
 cd ObjDetectionAndTracking
 ```
 
-3. Download Dataset (e.g, Oxford Town Centre Dataset, etc.)
-Link: https://academictorrents.com/details/35e83806d9362a57be736f370c821960eb2f2a01
+3. Download Dataset (e.g, Oxford Town Centre Dataset, etc.): https://academictorrents.com/details/35e83806d9362a57be736f370c821960eb2f2a01
 
-4. Download MobileNet SSD Model
-Link: https://drive.google.com/drive/folders/14IM5aiiIZ8DTPgZMrSBuL7lXoPca-08g?usp=drive_link
+4. Download MobileNet SSD Model: https://drive.google.com/drive/folders/14IM5aiiIZ8DTPgZMrSBuL7lXoPca-08g?usp=drive_link
 
 5. Run the `objDetectTrack.py` script:
 
