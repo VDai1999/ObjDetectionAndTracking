@@ -18,19 +18,19 @@ To get started with the project, follow the steps below:
 1. Clone the repository to your local machine:
 
 ```shell
-git clone https://github.com/your-username/pedestrians-detection-tracking.git
+git clone https://github.com/VDai1999/ObjDetectionAndTracking.git
 ```
 
 2. Change to the project directory:
 
 ```shell
-cd pedestrians-detection-tracking
+cd ObjDetectionAndTracking
 ```
 
 4. Run the `pedestrians_detection.py` script:
 
 ```shell
-python pedestrians_detection.py 
+python objDetectTrack.py
 ```
 
 This script will utilize the MobileNet SSD model to detect pedestrians in a video file. Detected pedestrians will be highlighted in bounding boxes.
